@@ -1,5 +1,5 @@
 • Load ‘Customers’ table as Excel data source (done)
-• Load ‘Plant’ table as .csv data source (no)
+• Load ‘Plant’ table as .csv data source (not working)
 • Load ‘Production’ table from ‘Sql Server’ using ‘Direct Query’ mode (You can install SSMS in your PC & use the localhost for the same) ( working)( have doubts in this as 
 I created it from sql express, and there was no production table so i created a sample production table and then loaded it)
-• Load ‘DimDate’ & ‘Shipped’ table from ‘Sql Server’ using ‘Import’ mode. 
+• Load ‘DimDate’ & ‘Shipped’ table from ‘Sql Server’ using ‘Import’ mode. (not working)
